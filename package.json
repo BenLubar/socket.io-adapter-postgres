@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "debug": "4.1.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.15",
     "notepack.io": "2.2.0",
     "pg": "7.8.0",
     "socket.io-adapter": "1.1.1",
